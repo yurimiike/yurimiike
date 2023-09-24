@@ -20,6 +20,9 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 
 ### Opções de contato
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yurimiike)
+
+
   
 
 
