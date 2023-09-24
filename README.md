@@ -8,10 +8,25 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-
 </p>
 <br>
+<hr>
+
+
+Olá! Sou apaixonado pela área de tecnologia, e amo aprender coisas novas! Atualmente iniciei a formação de Desenvolvimento Web Full Stack, pela Growdev, onde darei meus primeiros passos para me tornar um desenvolvedor. 
+
+O curso é uma formação completa que vai dos fundamentos da programação e tecnologia até o desenvolvimento de um software completo com front-end, back-end, banco de dados, cache, teremos também a oportunidade de aplicar os conhecimentos adquiridos em projetos contratados por empresas, desenvolvidos na fábrica de software da Growdev.
+
+Sou uma pessoa que gosta muito de solucionar problemas, de ajudar aqueles que precisam, seja no trabalho ou até mesmo em tarefas do cotidiano. Costumo ser muito paciente e aberto a novas ideias e abordagens. 
+
+Nas horas vagas, gosto muito de jogar jogos online. Acredito na importância de manter um equilíbrio saudável entre vida pessoal e profissional para promover o bem-estar e a criatividade.
+
+Estou aberto a oportunidades de conexão e colaboração com outros profissionais que compartilham meu entusiasmo por tecnologia. Se você está interessado em uma conversa ou colaboração, não hesite em entrar em contato.
+
+
+
+
+
 <hr>
 <img align="right" src="https://komarev.com/ghpvc/?username=yurimiike" />
 
