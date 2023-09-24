@@ -11,9 +11,14 @@ src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-
 
 
 </p>
-<br><hr>
-<img align="right" padding="10px" src="https://github-readme-stats.vercel.app/api?username=tomsmater&show_icons=true&theme=tokyonight" width="450"/>
-<img align="right" src="https://komarev.com/ghpvc/?username=tomsmater" />
+<br>
+<hr>
+<img align="right" src="https://komarev.com/ghpvc/?username=yurimiike" />
+
+![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurimiike&show_icons=true&theme=radical)
+
+[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimiike&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
